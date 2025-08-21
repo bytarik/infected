@@ -1,0 +1,1 @@
+İnfected adlı zararlının tespiti için gerekli YARA kuralı ve zararlıdan elde edilen hafıza dökümünün elde edildiği bin dosyaları ve bu dosya üzerinde anlamlı stringleri ayıklayan ve yakalayan scriptleri içerir.
